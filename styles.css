@@ -2,14 +2,16 @@ body {
   background: #E5E5E5;
 }
 #Headline {
-    background-color: #fff;
-    background: url(./Backgrounds/header-background-mobile.png);
+    background: url(./Backgrounds/Header\ bg.png);
+    background-position: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 90vh;
     border-bottom-left-radius: 79px;
+    background-color: #fff;
 }
 
 #headline h1 {
-  font-weight: 700 !important;
   font-size: 48px !important;
   color: #091E42 !important;
 }
