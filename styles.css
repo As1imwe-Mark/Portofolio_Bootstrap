@@ -1,0 +1,23 @@
+body {
+  background: #E5E5E5;
+}
+#Headline {
+    background: url(./Backgrounds/Header\ bg.png);
+    background-position: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 90vh;
+    border-bottom-left-radius: 79px;
+    background-color: #fff;
+}
+
+#contact {
+  background: url(./Backgrounds/contact\ form\ background\ shapes.png);
+  background-position: 100% 100%;
+  background-size:contain;
+  background-repeat: no-repeat;
+
+}
+ main {
+  /* scroll-margin-top: 50px; */
+ }
