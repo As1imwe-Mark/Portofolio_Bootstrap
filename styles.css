@@ -11,7 +11,13 @@ body {
     background-color: #fff;
 }
 
-#headline h1 {
-  font-size: 48px !important;
-  color: #091E42 !important;
+#contact {
+  background: url(./Backgrounds/contact\ form\ background\ shapes.png);
+  background-position: 100% 100%;
+  background-size:contain;
+  background-repeat: no-repeat;
+
 }
+ main {
+  /* scroll-margin-top: 50px; */
+ }
