@@ -3,13 +3,16 @@ body {
 }
 #Headline {
     background-color: #fff;
-    background: url(./Backgrounds/header-background-mobile.png);
+    background-image: url("Backgrounds/contact\ form\ background\ shapes.png"), url(./Backgrounds/header-background-mobile.png) ;
+    background-repeat: no-repeat, no-repeat;
+    background-size: contain, cover ;
+    background-position: center, center;
     height: 90vh;
     border-bottom-left-radius: 79px;
 }
 
-#headline h1 {
-  font-weight: 700 !important;
-  font-size: 48px !important;
-  color: #091E42 !important;
+.container h1 {
+  font-weight: 700;
+  font-size: 48px;
+  color: #091e42;
 }
