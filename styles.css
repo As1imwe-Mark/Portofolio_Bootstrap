@@ -1,0 +1,15 @@
+body {
+  background: #E5E5E5;
+}
+#Headline {
+    background-color: #fff;
+    background: url(./Backgrounds/header-background-mobile.png);
+    height: 90vh;
+    border-bottom-left-radius: 79px;
+}
+
+#headline h1 {
+  font-weight: 700 !important;
+  font-size: 48px !important;
+  color: #091E42 !important;
+}
